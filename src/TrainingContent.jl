@@ -6,6 +6,7 @@ export
     TrainingTableContents,
     TrainingTableData,
     contents_range,
+    generate_weeks,
     generate_TrainingTableData
 
     abstract type TrainingTableContents end
